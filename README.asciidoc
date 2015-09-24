@@ -16,11 +16,6 @@ Dependencies for OpenGL projects in C++
     ** https://www.libsdl.org/release/SDL2-devel-2.0.3-VC.zip[Windows Visual C++ 32/64 dev headers and binaries]
     ** Ubuntu/Debian, package: libsdl2-dev
 
-- https://www.libsdl.org/projects/SDL_image/[SDL_image]
-  *   SDL2_image 2.0.0
-    ** https://www.libsdl.org/projects/SDL_image/release/SDL2_image-devel-2.0.0-VC.zip[Windows Visual C++ 32/64 dev headers and binaries]
-    ** Ubuntu/Debian, package: libsdl2-image-dev
-
 - http://glew.sourceforge.net/[GLEW: The OpenGL Extension Wrangler Library]
   * GLEW 1.13.0
     ** https://sourceforge.net/projects/glew/files/glew/1.13.0/glew-1.13.0-win32.zip/download[Windows 32/64 dev headers and binaries]
@@ -29,3 +24,8 @@ Dependencies for OpenGL projects in C++
   * GLM 0.9.7.1
     ** https://github.com/g-truc/glm/releases/download/0.9.7.1/glm-0.9.7.1.zip[Windows 32/64 source (header only library)]
     ** Ubuntu/Debian, package: libglm-dev
+
+- https://www.libsdl.org/projects/SDL_image/[SDL_image]
+  *   SDL2_image 2.0.0
+    ** https://www.libsdl.org/projects/SDL_image/release/SDL2_image-devel-2.0.0-VC.zip[Windows Visual C++ 32/64 dev headers and binaries]
+    ** Ubuntu/Debian, package: libsdl2-image-dev
