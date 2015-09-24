@@ -1,0 +1,18 @@
+## Graphics dependencies
+
+Dependencies for OpenGL projects in C++
+
+### Libraries
+
+- https://www.libsdl.org/[SDL2]
+  * SDL2 2.0.3
+- http://glew.sourceforge.net/[GLEW: The OpenGL Extension Wrangler Library]
+  * GLEW 1.13.0
+- http://glm.g-truc.net[OpenGL Mathematics (GLM) ]
+  * GLM 0.9.7.1
+
+### Tools
+
+- https://premake.github.io/[Premake5]
+  * premake 5.0.0-alpha5
+  * https://github.com/bkaradzic/genie[GENie] as an alternative
