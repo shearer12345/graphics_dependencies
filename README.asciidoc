@@ -13,13 +13,15 @@ Dependencies for OpenGL projects in C++
 
 - https://www.libsdl.org/[SDL2]
   * SDL2 2.0.3
-    ** https://www.libsdl.org/release/SDL2-devel-2.0.3-VC.zip[Windows Visual C++ 32/64 dev headers and binaries]
+    ** https://buildbot.libsdl.org/sdl-builds/sdl-visualstudio/sdl-visualstudio-2555.zip[Windows Visual C++ 32/64 dev headers and binaries, daily build from 2015-09-27]
+      *** resolves http://www.gamedev.net/topic/664434-problem-installing-sdl-in-visual-studio-2015/#entry5210967
     ** Ubuntu/Debian, package: libsdl2-dev
 
 - http://glew.sourceforge.net/[GLEW: The OpenGL Extension Wrangler Library]
   * GLEW 1.13.0
     ** https://sourceforge.net/projects/glew/files/glew/1.13.0/glew-1.13.0-win32.zip/download[Windows 32/64 dev headers and binaries]
     ** Ubuntu/Debian, package: libglew-dev
+
 - http://glm.g-truc.net[OpenGL Mathematics (GLM) ]
   * GLM 0.9.7.1
     ** https://github.com/g-truc/glm/releases/download/0.9.7.1/glm-0.9.7.1.zip[Windows 32/64 source (header only library)]
