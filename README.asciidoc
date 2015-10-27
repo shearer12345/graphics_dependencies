@@ -33,6 +33,12 @@ Dependencies for OpenGL projects in C++
     ** Ubuntu/Debian, package: libsdl2-image-dev
 
 - https://www.libsdl.org/projects/SDL_ttf/[SDL_ttf]
- * SDL2_ttf 2.0.12
-   ** https://www.libsdl.org/projects/SDL_ttf/release/SDL2_ttf-devel-2.0.12-VC.zip[Windows Visual C++ 32/64 dev headers and binaries]
-   ** Ubuntu/Debian, package: libsdl2-ttf-dev
+  * SDL2_ttf 2.0.12
+    ** https://www.libsdl.org/projects/SDL_ttf/release/SDL2_ttf-devel-2.0.12-VC.zip[Windows Visual C++ 32/64 dev headers and binaries]
+    ** Ubuntu/Debian, package: libsdl2-ttf-dev
+
+- http://ffmpeg.zeranoe.com/builds/
+  * FFmpeg git-d897d4c 32-bit Dev
+    ** http://ffmpeg.zeranoe.com/builds/win32/dev/ffmpeg-20151027-git-d897d4c-win32-dev.7z[[Windows Visual C++ 32 dev headers and binaries]
+    ** Ubuntu/Debian, packages: libavutil-dev, libavcodec-dev, libavformat-dev, libavdevice-dev, libavfilter-dev, libswscale-dev, libswresample-dev, libpostproc
+
